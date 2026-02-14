@@ -5,6 +5,11 @@
 This project demonstrates an agent that can explore, summarize, and visualize datasets while reasoning step-by-step using a Thought → Action → PAUSE → Observation → Answer loop.
 
 ---
+## Documentation
+
+For full documentation on approach, design decisions, research, and evaluation, see [AI Agent Documentation](https://docs.google.com/document/d/1l87nS_uvRTS9jFlIaAPOOr_2P4Z8PaCUQnkPOJBPqV8/edit?usp=sharing).
+
+---
 
 ## Table of Contents
 
