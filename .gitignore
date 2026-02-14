@@ -1,0 +1,7 @@
+.env
+__pycache__/
+plots/
+*.pyc
+.vscode/
+venv/
+.gradio

@@ -1,0 +1,6 @@
+pandas
+matplotlib
+seaborn
+gradio
+openai
+python-dotenv
